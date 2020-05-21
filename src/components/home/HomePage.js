@@ -8,7 +8,7 @@ const HomePage = () => (
       "Do not fear for i am with you, do not be dismaid for i am with you..."
     </p>
     <Link to="about" className="btn btn-primary btn-lg">
-      Learn more
+      Testing SonarCloud
     </Link>
   </div>
 );
